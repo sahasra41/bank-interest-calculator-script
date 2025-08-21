@@ -1,5 +1,5 @@
 # Bank Interest Calculator Script
-
+Merge proof: updating README for assignment
 This project is part of the Coursera "Introduction to Git and GitHub" course.  
 It contains a simple shell script to calculate Simple Interest.
 
